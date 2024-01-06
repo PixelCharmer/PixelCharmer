@@ -8,7 +8,7 @@ I embarked on my coding journey as a self-paced learner, contemplating a shift f
 
 *   🌍  I'm based in Carson City, NV
 *   🖥️  See my portfolio at [My LinkedIn](http://www.linkedin.com/in/karialcoset/)
-*   ✉️  You can contact me at [swdeveloperKari@gmail.com](mailto:swedeveloperKari@gmail.com)
+*   ✉️  You can contact me at [pixelcharmer.kari@gmail.com](mailto:pixelcharmer.kari@gmail.com)
 *   ⚡  I am actively seeking employment and am open to internships
 *   🧠  I'm learning Bootstrap, JavaScript and JS frameworks/libraries, React, Java, MySQL, Spring Boot
 
